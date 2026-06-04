@@ -2,6 +2,8 @@
 title: Evgeny Nemzer
 ---
 
+<img class="photo" src="njenia.jpg" alt="Evgeny Nemzer" width="144" height="144" />
+
 # Evgeny Nemzer
 
 Software Engineer · Canada
